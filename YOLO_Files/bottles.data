@@ -1,0 +1,5 @@
+classes = 10
+train = C:\Users\admin\Desktop\Moldcode_Network\YOLO_Files\bottles_train_recogn.txt
+valid = C:\Users\admin\Desktop\Moldcode_Network\YOLO_Files\bottles_test_recogn.txt
+names = C:\Users\admin\Desktop\Moldcode_Network\YOLO_Files\bottles.names
+backup = backup/
